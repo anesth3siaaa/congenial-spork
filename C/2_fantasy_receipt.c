@@ -25,7 +25,7 @@ int main() {
         printf("%-20s %d G\n", shop[i].name, shop[i].price);
         
         sum += shop[i].price; /* C runs code line for line 
-        that's why sum is AFTER shop[i].price is read after.
+        that's why sum is AFTER shop[i].price is read.
         This runs in "for" cus it adds the price every time
         the loop runs.*/
         
