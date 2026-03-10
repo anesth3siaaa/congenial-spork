@@ -1,5 +1,4 @@
 #include <stdio.h>
-// this one is really similar to 2_fantasy_receipt
 int numbers[] = {3, 1, 4, 1, 5};
 
 
