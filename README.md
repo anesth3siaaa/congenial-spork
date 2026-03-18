@@ -8,6 +8,10 @@ NOTE: not all of these languages are already inside the project. They will be ad
 ### Resources used
 
 #### C
-https://learn.onlinegdb.com/learn_c_programming
+[OnlineGDB](https://learn.onlinegdb.com/learn_c_programming)
 
-https://www.w3schools.com/c/
+[W3Schools](https://www.w3schools.com/c/)
+
+#### Python
+
+[W3Schools](https://pathfinder.w3schools.com/code-challenges/0b45f5e9-e5ad-43f9-8b49-dcc82a33195a)
