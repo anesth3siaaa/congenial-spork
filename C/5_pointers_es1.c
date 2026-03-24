@@ -17,7 +17,7 @@ int main()
     int a = 6;
     int b = 7;
     printf("Before swap: %d, %d\n", a, b);
-    swap(&a, &b); /* This tells swap that *p1 = a and *p2 = b */
+    swap(&a, &b); /* This tells swap that p1 = &a and p2 = %b */
     printf("After swap: %d, %d\n", a, b);
 
     return 0;
