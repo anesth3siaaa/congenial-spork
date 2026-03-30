@@ -16,6 +16,7 @@ NOTE: not all of these languages are already inside the project. They will be ad
 [W3Schools](https://www.w3schools.com/rust/)
 [Rustlings](https://rustlings.rust-lang.org/)
 [Rustfinity Learning Tracks](https://www.rustfinity.com/tracks)
+[100 exercises to learn Rust](https://rust-exercises.com/100-exercises/)
 
 
 #### Other useful resources
