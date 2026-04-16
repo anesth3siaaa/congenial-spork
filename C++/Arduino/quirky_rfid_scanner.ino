@@ -135,8 +135,11 @@ void loop() {
     } else if (lastNibble == 0x2) {
       tone(BUZZER_PIN, FREQ_CARD, 400);
     } else {
-      Serial.println("Unable to recognize tag.");
-    }
+    Serial.println("Unable to recognize tag.");
+    tone(BUZZER_PIN, 200, 200); delay(300);
+    tone(BUZZER_PIN, 200, 200); delay(300);
+    noTone(BUZZER_PIN);
+  }
 
   digitalWrite(LED_PIN, HIGH);
   delay(200);
